@@ -4,8 +4,7 @@
   <h3 align="center">A mysterious person 🤔</h3>
 </p>
 
-
-- ✍ I studied software engineering at [Duy Tan University](https://duytan.edu.vn/).
+- ✍ I studied software engineering at <a href="https://duytan.edu.vn/">Duy Tan University</a>.
 <br />
 
 ## 📫 How to reach me:
@@ -51,4 +50,3 @@
     </td>
   </tr>
 </table>
-
