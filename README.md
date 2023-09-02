@@ -38,7 +38,7 @@
 
 ## Activities:
 
-<table style="width:100%;">
+<table style="width:200%;">
   <tr>
     <td>
 <a href="http://www.github.com/Mewww2k4"><img src="https://github-readme-stats.vercel.app/api?username=Mewww2k4&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=a855f7&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Mewww2k4" /></a>
@@ -47,7 +47,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="50%"/>
       </p>
     </td>
   </tr>
