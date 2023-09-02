@@ -38,7 +38,7 @@
 
 ## Activities:
 
-<table style="width:150%;">
+<table style="width:100%;">
   <tr>
     <td>
 <a href="http://www.github.com/Mewww2k4"><img src="https://github-readme-stats.vercel.app/api?username=Mewww2k4&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Mewww2k4" /></a>
