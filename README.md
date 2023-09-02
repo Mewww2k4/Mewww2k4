@@ -41,8 +41,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mewww2k4&show_icons=true&theme=radical)" alt="Mewwww2k4" width="100%"/>
-      <img src="(https://github-readme-stats.vercel.app/api?username=Mewww2k4&count_private=true&show_icons=true&theme=radical)"alt="Mewww2k4" width="100%"/>
+<a href="http://www.github.com/Mewww2k4"><img src="https://github-readme-stats.vercel.app/api?username=Mewww2k4&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=a855f7&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Mewww2k4" /></a>
+
+<a href="http://www.github.com/Meww2k4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mewww2k4&stroke=a855f7&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=a855f7&currStreakLabel=14b8a6&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Mewww2k4"/></a>
     </td>
     <td>
       <p align="center"> 
