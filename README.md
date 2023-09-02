@@ -42,8 +42,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Mewww2k4&show_icons=true&theme=radical)" alt="Mewwww2k4" width="100%"/>
-      <img src="(https://github-readme-stats.vercel.app/api?username=Mewww2k4&count_private=true&show_icons=true&theme=radical)
-" alt="Mewww2k4" width="100%"/>
+      <img src="(https://github-readme-stats.vercel.app/api?username=Mewww2k4&count_private=true&show_icons=true&theme=radical)"alt="Mewww2k4" width="100%"/>
     </td>
     <td>
       <p align="center"> 
